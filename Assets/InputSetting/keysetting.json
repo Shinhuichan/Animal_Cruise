@@ -1,0 +1,8 @@
+{
+    "MoveUp": "W",
+    "MoveDown": "Q",
+    "MoveLeft": "A",
+    "MoveRight": "E",
+    "Jump": "D",
+    "Skill": "LeftControl"
+}
