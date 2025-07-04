@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c5f8be8b82e5814ba926ae732f248a8, type: 3}
+  m_Name: Rabbit
+  m_EditorClassIdentifier: 
+  _l4: 0
+  type: 1
+  moveSpeed: 12.5
+  rotateSpeed: 360
+  jumpForce: 12
+  jumpDuration: 0.5
+  crawlMoveIncrese: 0.75
+  weight: 1.5
+  _l2: 0
+  abilities:
+  - {fileID: 11400000, guid: 0c700f71c9e813d46b93a1edc4f13547, type: 2}
+  - {fileID: 11400000, guid: 74d4c1fa7497fa24393293682a36c929, type: 2}
+  _l3: 0
